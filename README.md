@@ -19,6 +19,6 @@ I am a software engineer passionate about System Architecture, Distributed Syste
 
 #### Technical Skill sets:
 - **Languages**: C#, C, C++, Java, Python, JavaScript, SQL, Bash
-- **Technologies**: Git, Typescript,ASP.Net Core, ASP.NET, Node.js, Express, React, SQL Server, MongoDB, PostgreSQL, Redis, xUnit, Moq, Jest, Supertest, Docker, Kubernetes, RabbitMQ, Azure, Elastic Search, Kibana, Promethues, Grafana, OAuth2, JWT.
+- **Technologies**: Git, Typescript, ASP.Net Core, ASP.NET, Node.js, Express, React, SQL Server, MongoDB, PostgreSQL, Redis, xUnit, Moq, Jest, Supertest, Docker, Kubernetes, RabbitMQ, Azure, Elastic Search, Kibana, Promethues, Grafana, OAuth2, JWT.
 - **Machine Learning Tasks**: 3D Human Pose Estimation, Image Classification, Object Detection, Segmentation, Semi-Supervised Learning.
 - **Machine Learning Framework**: PyTorch
