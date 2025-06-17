@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a software engineer passionate about System Architecture, Distributed Systems, Algorithms, and Computer Vision. I have over four years of experience developing web applications. In addition, I have a master’s degree in Computer Science. 
+I am a software engineer passionate about System Architecture, Distributed Systems, Algorithms, and Computer Vision. I have over 5 years of experience developing web applications. In addition, I have a master’s degree in Computer Science. 
 
 #### Technical Skill sets:
 - **Languages**: C#, C, C++, Java, Python, JavaScript, SQL, Bash
